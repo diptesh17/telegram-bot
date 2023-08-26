@@ -1,1 +1,19 @@
 
+{
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "i": "^0.3.7",
+    "npm": "^9.8.1",
+    "telegraf": "^4.12.2"
+  },
+  "name": "tele_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
